@@ -1,0 +1,35 @@
+html{
+
+    background-color: rgb(19, 211, 211);
+    text-align: center;
+}
+
+
+
+body header section img{
+    width: 300px;
+}
+
+main h2{
+    color: white;
+}
+
+main h4{
+
+    color: white;
+  
+}
+
+button{
+
+    width: 150px;
+    border: 200ex;
+    background-color: rgb(4, 122, 122) ;
+    color: white;
+}
+footer img{
+
+    width: 100px;
+    margin: 5px;
+   
+}
